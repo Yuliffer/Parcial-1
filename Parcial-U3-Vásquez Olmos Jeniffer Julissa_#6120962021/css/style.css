@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(253, 205, 47);
+}
+
+.Logo1{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 500px;  
+
+}
+
+.elemento1{
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    left: 80px;
+    top: 200px;
+}
+
+.Logo2{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 730px;   
+}
+
+
+.container1{
+    position: fixed;
+    margin-left: 50%;
+   
+}
+
+.container2{
+    position: fixed;
+    margin-left: 500px;
+   
+}
+
+.Logo3{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 500px;   
+}
+
